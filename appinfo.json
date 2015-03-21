@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "wkowalc1@binghamton.edu",
+    "longName": "Test",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/no_litter_crop.png",
+                "name": "IMAGE_NO_LITTER",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Test",
+    "uuid": "202ca0b9-8caf-4e4b-a9b6-8be22804d9fb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
